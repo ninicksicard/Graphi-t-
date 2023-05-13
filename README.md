@@ -1,6 +1,7 @@
 # Graphi(t)
-
+![Logo](https://github.com/ninicksicard/Graphi-t-/assets/31396919/7cf71cce-077f-4667-a187-062d9bf675aa)
 Graphi(t) is a user-friendly software for creating and visualizing 3D parametric plots with ease. It offers a range of features for defining functions, customizing plot settings, and adding multiple curves. Empower your mathematical exploration with Graphi(t)!
+
 
 ## Features
 
