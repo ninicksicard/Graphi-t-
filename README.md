@@ -17,6 +17,7 @@ Graphi(t) is a user-friendly software for creating and visualizing 3D parametric
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
+![image](https://github.com/ninicksicard/Graphi-t-/assets/31396919/3644f5e3-68c0-46ba-94a5-e5b6449bd42a)
 
 1. Launch the application: `python main.py`
 2. Define your parametric functions and set the desired plot settings.
