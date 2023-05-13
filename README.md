@@ -27,22 +27,22 @@ Download the MSI installer from the [Releases](https://github.com/ninicksicard/G
 
 ### Basic Operators:
 
-Addition: +
-Subtraction: -
-Multiplication: *
-Division: /
-Exponentiation: **
+      Addition: +
+      Subtraction: -
+      Multiplication: *
+      Division: /
+      Exponentiation: **
 
 ### Mathematical Functions:
 
-Trigonometric functions: cos, sin, tan
-Inverse trigonometric functions: acos, asin, atan, atan2
-Hyperbolic functions: cosh, sinh, tanh
-Inverse hyperbolic functions: acosh, asinh, atanh
-Square root: sqrt
-Exponential: exp
-Logarithm: log (natural logarithm), log10 (base 10), log2 (base 2)
-Absolute value: abs
+      Trigonometric functions: cos, sin, tan
+      Inverse trigonometric functions: acos, asin, atan, atan2
+      Hyperbolic functions: cosh, sinh, tanh
+      Inverse hyperbolic functions: acosh, asinh, atanh
+      Square root: sqrt
+      Exponential: exp
+      Logarithm: log (natural logarithm), log10 (base 10), log2 (base 2)
+      Absolute value: abs
 
 ### Constants:
 Pi: pi
