@@ -45,8 +45,8 @@ Download the MSI installer from the [Releases](https://github.com/ninicksicard/G
       Absolute value: abs
 
 ### Constants:
-Pi: pi
-Euler's number: e
+      Pi: pi
+      Euler's number: e
 
 ### Notes : 
 - Please note that explicit multiplication is necessary. For example, if you wish to multiply a with the expression (b + cos(t)), you should write it as a * (b + cos(t)), not as a(b + cos(t)).
