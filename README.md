@@ -25,6 +25,34 @@ Download the MSI installer from the [Releases](https://github.com/ninicksicard/G
 4. Customize the plot by adjusting the time range, enabling iteration, or adding additional variables.
 5. Save your plots for later reference or load existing plots from files.
 
+### Basic Operators:
+
+Addition: +
+Subtraction: -
+Multiplication: *
+Division: /
+Exponentiation: **
+
+### Mathematical Functions:
+
+Trigonometric functions: cos, sin, tan
+Inverse trigonometric functions: acos, asin, atan, atan2
+Hyperbolic functions: cosh, sinh, tanh
+Inverse hyperbolic functions: acosh, asinh, atanh
+Square root: sqrt
+Exponential: exp
+Logarithm: log (natural logarithm), log10 (base 10), log2 (base 2)
+Absolute value: abs
+
+### Constants:
+Pi: pi
+Euler's number: e
+
+### Notes : 
+- Please note that explicit multiplication is necessary. For example, if you wish to multiply a with the expression (b + cos(t)), you should write it as a * (b + cos(t)), not as a(b + cos(t)).
+- atan2 can be used with a coma in any function :  
+      cos(t) + sqrt(atan2(a,b))*c
+
 ## Development
 
 To setup a development environment:
