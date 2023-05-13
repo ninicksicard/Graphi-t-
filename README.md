@@ -2,7 +2,6 @@
 ![Logo](https://github.com/ninicksicard/Graphi-t-/assets/31396919/7cf71cce-077f-4667-a187-062d9bf675aa)
 Graphi(t) is a user-friendly software for creating and visualizing 3D parametric plots with ease. It offers a range of features for defining functions, customizing plot settings, and adding multiple curves. Empower your mathematical exploration with Graphi(t)!
 
-
 ## Features
 
 - Intuitive interface for defining parametric functions
@@ -15,6 +14,7 @@ Graphi(t) is a user-friendly software for creating and visualizing 3D parametric
 
 1. Clone the repository: `git clone https://github.com/your-username/Graphi-t.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
+3. Install the Pynsist package for building the installer: `pip install pynsist`
 
 ## Usage
 ![image](https://github.com/ninicksicard/Graphi-t-/assets/31396919/3644f5e3-68c0-46ba-94a5-e5b6449bd42a)
@@ -30,6 +30,8 @@ Graphi(t) is a user-friendly software for creating and visualizing 3D parametric
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter): CustomTkinter library for advanced GUI features and styling
 - [matplotlib](https://matplotlib.org/): Matplotlib library for 3D plotting capabilities
 - [numpy](https://numpy.org/): NumPy library for array manipulation and mathematical functions
+- [pynsist](https://pypi.org/project/pynsist/): Pynsist is a tool to build Windows installers for your Python applications
+- [NSIS](https://nsis.sourceforge.io/Download): (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution. 
 
 ## Contributing
 
