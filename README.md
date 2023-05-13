@@ -77,4 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - The Graphi(t) software is built using the [Python](https://www.python.org/) programming language.
-- Special thanks to the contributors and open-source community for their valuable contributions.
