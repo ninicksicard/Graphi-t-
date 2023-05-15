@@ -53,7 +53,7 @@ bdist_msi_options = {
 
 setup(
     name="Graphi(t)",
-    version="0.1",
+    version="0.2.0",
     description="Graphi(t) is a user-friendly software for creating and visualizing 3D parametric plots with ease.",
     author="Nicolas Sicard",
     author_email="nicolassicardroy+Github@gmail.com",
