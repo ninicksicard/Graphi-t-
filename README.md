@@ -10,6 +10,9 @@ Graphi(t) is a user-friendly software for creating and visualizing 3D parametric
 - Iteration capability for dynamic function evaluation
 - Additional variable support for enhanced flexibility
 - Save and load functionality to store and retrieve plots
+- Toggle between equal axis and auto resize for the 3D plot
+- Export plots as DWG files, compatible with CAD software like SolidWorks
+- Integrated Matplotlib toolbar for additional plot control
 
 ## Installation
 
@@ -24,6 +27,9 @@ Download the MSI installer from the [Releases](https://github.com/ninicksicard/G
 3. Click the "Plot" button to generate the 3D parametric plot.
 4. Customize the plot by adjusting the time range, enabling iteration, or adding additional variables.
 5. Save your plots for later reference or load existing plots from files.
+6. Use the new checkbox to toggle between equal axis and auto resize for the 3D plot.
+7. Export your plots as DWG files for use in CAD software like SolidWorks.
+8. Utilize the integrated Matplotlib toolbar for additional plot control.
 
 ### Basic Operators:
 
@@ -77,3 +83,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - The Graphi(t) software is built using the [Python](https://www.python.org/) programming language.
+
