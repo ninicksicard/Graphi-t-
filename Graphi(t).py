@@ -1,6 +1,7 @@
 import json
 import os
 import tempfile
+import tkinter
 from tkinter import filedialog
 
 import customtkinter as ctk
@@ -9,6 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 from mpl_toolkits.mplot3d import Axes3D
+
 
 
 def on_save_button_click():
