@@ -71,6 +71,7 @@ These dependencies include:
 - [matplotlib](https://matplotlib.org/): Matplotlib library for 3D plotting capabilities
 - [numpy](https://numpy.org/): NumPy library for array manipulation and mathematical functions
 - [cx_Freeze](https://pypi.org/project/cx-Freeze/): A set of scripts and modules for freezing Python scripts into executables
+- [ezdxf](https://github.com/mozman/ezdxf): ezdxf library to generate DXF and DNG file from curves.
 
 ## Contributing
 
