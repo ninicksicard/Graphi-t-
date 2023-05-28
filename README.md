@@ -78,6 +78,9 @@ These dependencies include:
 ## Version 0.4.0 updates
 
 - **New**: Improved saving process to enhance usability and performance
+- **New**: Curve color selection and hide curve toggle. 
+      ![image](https://github.com/ninicksicard/Graphi-t-/assets/31396919/27f71298-b9da-46e6-9755-f20ffbde5266)
+
 
 ## Contributing
 
